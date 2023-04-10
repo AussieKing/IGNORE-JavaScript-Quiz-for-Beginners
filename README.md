@@ -95,7 +95,7 @@ The repository can be accessed at the following URL:
 
 - Help from OpenAI's [ChatGPT](https://chat.openai.com/chat) for answering many questions about JavaScript and CSS.
 
-- Our study group (every Saturday), the patient TA and Teachers, and the TA available to us that help us through the week!
+- Our study group (every Saturday) especially Rene Malingre for his patience and guidance, the knowledgeable TA and Teachers, and the TAs available to us that help us through the week!
 
 ## License
 
