@@ -66,21 +66,26 @@ Clone the repository to your local machine and open the `index.html` file in you
 
 ## Screenshots
 
+### Start Quiz screen
+
+![Screen Shot 2023-04-10 at 2 37 44 pm](https://user-images.githubusercontent.com/126050763/230827386-fa709bc8-8327-46a9-9e1a-7ed8e832c913.png)
 
 
 ### Rules
 
+![Screen Shot 2023-04-10 at 2 37 55 pm](https://user-images.githubusercontent.com/126050763/230827333-1e3ef70b-1d18-464f-92ea-141d564f179c.png)
 
+### Correct answer feedback
+
+![Screen Shot 2023-04-10 at 2 38 17 pm](https://user-images.githubusercontent.com/126050763/230827324-ce7bc427-46c6-4ccb-b1e0-3e2b9e5056f0.png)
 
 ### Incorrect answer feedback
 
-[Screenshot of the quiz screen of the application with correct answer feedback]
-
+![Screen Shot 2023-04-10 at 2 38 25 pm](https://user-images.githubusercontent.com/126050763/230827280-7be6d69c-c57f-432c-9971-6afbafa6d87b.png)
 
 ### Score Screen
 
-![Screenshot of the score screen of the application]
-
+![Screen Shot 2023-04-10 at 2 38 44 pm](https://user-images.githubusercontent.com/126050763/230827243-97a46f45-ac1a-4e68-94ec-5b3b47aa3d3f.png)
 
 
 ## Live URL and Repository
