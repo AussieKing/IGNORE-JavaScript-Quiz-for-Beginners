@@ -26,7 +26,7 @@ The application features the following:
   - A 10-second penalty is applied for each incorrect answer.
   - The countdown timer is displayed numerically and graphically with a progress bar in the header.
 - The number of questions is displayed in the footer.
-- The user is shown if the selected answer is correct (answer highlighted in gree, with a tick), or incorrect (answer highlighted in red, with a cross). If the user selects the incorrect answer, the right answer is also automatically displayed.
+- The user is shown if the selected answer is correct (answer highlighted in green, with a tick), or incorrect (answer highlighted in red, with a cross). If the user selects the incorrect answer, the right answer is also automatically displayed.
  - After the last question is answered, the application shows the user's score and number of correct answers given.
 - Upon completion of the quiz, the user is shown their score, and can enter their initials to save their score to the high scores list.
 
