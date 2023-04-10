@@ -2,7 +2,8 @@
 <html lang="en"> 
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width-device-width, initial-scale=1-0">
+    <!-- <meta name="viewport" content="width-device-width, initial-scale=1-0"> -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>JavaScript Quiz"</title>
     <link rel="stylesheet" href="assets/style.css">
         <!--using a web font from a CDN here-->
@@ -17,9 +18,9 @@
         </div>
         <div class="info_list">
             <div class="info">Rule 1: you will have <span>15 seconds </span>per each question.</div>
-            <div class="info">Rule 2: your time starts from when you click the "Continue" button below.</div>
+            <div class="info">Rule 2: your time starts from when you click the "Continue" button below. Overall timer (15 seconds * 5 questions = 75 seconds) keeps ticking down until it hits 0.</div>
             <div class="info">Rule 3: when you get a correct answer, points will be awarded to your final score.</div>
-            <div class="info">Rule 4: when you get a wrong answer, time will be deducted from your overall time.</div>
+            <div class="info">Rule 4: when you get a wrong answer, 10 seconds will be deducted from your Overall timer.</div>
             <div class="info">Rule 5: try to answer without looking up the question online</div>
             <div class="info">Last rule is: HAVE FUN!</div>
         </div>
@@ -36,6 +37,8 @@
             <div class="timer">
                 <div class="time_text">Time left</div>
                 <div class="timer_sec">15</div>
+                <div class="overall_time_text">Time left</div>
+                <div class="overall_timer_sec" id="overall-timer">15</div>
             </div>
             <div class="time_line"></div>
         </header>
@@ -66,6 +69,10 @@
         <div class="complete_text">You've completed the Quiz!</div>
         <div class="score_text">
             <!-- score result here -->
+        </div>
+        <div id="overall-score">
+            <!-- score result here -->
+
         </div>
         <div class="buttons">
             <button class="restart">Replay Quiz</button>
