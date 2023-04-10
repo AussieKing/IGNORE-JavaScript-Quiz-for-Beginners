@@ -1,7 +1,7 @@
 # AussieKing JavaScript Quiz for beginners
 
 This is a simple web application to practice your knowledge on JavaScript via a short series of multi-answer questions.
-The score is calculated based on ...........................
+The score is calculated based on how many correct answers are given on a pre-determined amount of questions (5 in this case), and cross referenced with how much time is left on the clock.
 
 ## Table of Contents
 
