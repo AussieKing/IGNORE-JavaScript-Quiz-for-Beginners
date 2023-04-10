@@ -15,12 +15,7 @@ The score is calculated based on how many correct answers are given on a pre-det
 
 ## Features
 
- The web browser app consists of dynamical HTML and CSS powered by JavaScript. It has a simple, polished and responsive user interface that adapts to multiple screen sizes.
-
- The user options are as follows:
-
-- Users can select the desired number of questions by moving a slider, between 5 and 28 questions. More questions can be easily inserted into the JavaScript file if desired by a programmer.
-- Users can choose to see the correct answer after an incorrect answer is shown by checking a checkbox.
+ The web browser app consists of dynamical HTML and CSS powered by JavaScript. It has a simple and respinsive UI that adapts to multiple screen sizes.
 
 The application features the following:
 
