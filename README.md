@@ -1,0 +1,105 @@
+# AussieKing JavaScript Quiz for beginners
+
+This is a simple web application to practice your knowledge on JavaScript via a short series of multi-answer questions.
+The score is calculated based on ...........................
+
+## Table of Contents
+
+- [Features](#features)
+- [Usage Guidelines](#usage-guidelines)
+- [Languages Used](#languages-used)
+- [Screenshots](#screenshots)
+- [Live URL and Repository](#live-url-and-repository)
+- [Credits](#credits)
+- [License](#license)
+
+## Features
+
+ The web browser app consists of dynamical HTML and CSS powered by JavaScript. It has a simple, polished and responsive user interface that adapts to multiple screen sizes.
+
+ The user options are as follows:
+
+- Users can select the desired number of questions by moving a slider, between 5 and 28 questions. More questions can be easily inserted into the JavaScript file if desired by a programmer.
+- Users can choose to see the correct answer after an incorrect answer is shown by checking a checkbox.
+
+The application features the following:
+
+- The quiz questions presented is composed of 5 questions around basic JavaScript.
+  - Each questions has 4 possible answers.
+- An overall countdown timer starts at the start of the quiz and does not stop until it hits 0 seconds, or the user has answered all questions.
+  - The user is given 15 seconds per question (in this case, 5 questions = 75 seconds total).
+  - A 10-second penalty is applied for each incorrect answer.
+  - The countdown timer is displayed numerically and graphically with a progress bar in the header.
+- The number of questions is displayed in the footer.
+- The user is shown if the selected answer is correct (answer highlighted in gree, with a tick), or incorrect (answer highlighted in red, with a cross). If the user selects the incorrect answer, the right answer is also automatically displayed.
+ - After the last question is answered, the application shows the user's score and number of correct answers given.
+- Upon completion of the quiz, the user is shown their score, and can enter their initials to save their score to the high scores list.
+
+## Usage guidelines
+
+Clone the repository to your local machine and open the `index.html` file in your browser to view the quiz application, or go to the [live site](#live-url-and-repository).
+
+1. Open the application in your preferred web browser (Google Chrome recommended).
+2. Click the "Start Quiz" button to start the quiz, and read the Rules.
+3. Answer the questions by clicking on the answer displayed on the screen.
+4. When the quiz is complete, enter your initials to save your score to the high scores list. ##(NOTE TO SELF : this part needs implementation)
+5. Click the "Quit" button to quit the application.
+6. Click the "Replay Quiz" button to start a new quiz.
+7. # Need to finish off the initials / score.
+
+## Languages Used
+
+- HTML
+- CSS
+  - Flexbox
+  - Media Queries
+  - CSS Variables
+- JavaScript
+  - DOM Manipulation
+  - Event Listeners
+  - Event Handlers
+  - Bubbling up
+  - Custom Events
+  - Local Storage
+  - Functions
+  - Classes
+
+## Screenshots
+
+
+
+### Rules
+
+
+
+### Incorrect answer feedback
+
+[Screenshot of the quiz screen of the application with correct answer feedback]
+
+
+### Score Screen
+
+![Screenshot of the score screen of the application]
+
+
+
+## Live URL and Repository
+
+The live application can be accessed at the following URL: 
+
+The repository can be accessed at the following URL: 
+
+## Credits
+
+- Google Fonts for the typeface - [Poppins](https://fonts.google.com/specimen/Poppins)
+
+- Help from OpenAI's [ChatGPT](https://chat.openai.com/chat) for answering many questions about JavaScript and CSS.
+
+- Our study group (every Saturday), the patient TA and Teachers, and the TA available to us that help us through the week!
+
+## License
+
+Under the terms of the MIT license.
+
+© 2023 AussieKing
+
