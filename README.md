@@ -40,7 +40,6 @@ Clone the repository to your local machine and open the `index.html` file in you
 4. When the quiz is complete, enter your initials to save your score to the high scores list. ##(NOTE TO SELF : this part needs implementation)
 5. Click the "Quit" button to quit the application.
 6. Click the "Replay Quiz" button to start a new quiz.
-7. # Need to finish off the initials / score.
 
 ## Languages Used
 
